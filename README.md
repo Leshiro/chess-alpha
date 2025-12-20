@@ -41,7 +41,7 @@ If your terminal does not support ANSI colors, the board and pieces will not dis
    python chess.py
 
 ## Controls
-- Moves are entered as 4 characters: `e2e4`
+- Moves are entered as 4 characters. e.g: `e2e4`
 - First two characters → piece position
 - Last two characters → destination
 
