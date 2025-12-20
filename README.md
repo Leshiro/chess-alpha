@@ -51,5 +51,5 @@ Moves are entered as 4 characters. e.g: `e2e4`
 - `restart` — Restart the game
 
 ## Save System
-Saved games are stored in the saves/ folder as `.txt` files.<br>
-You can load a save by entering its filename when starting the game.
+- Saved games are stored in the saves/ folder as `.txt` files.<br>
+- You can load a save by entering its filename when starting the game.
