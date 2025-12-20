@@ -41,9 +41,9 @@ If your terminal does not support ANSI colors, the board and pieces will not dis
    python chess.py
 
 ## Controls
-Moves are entered as 4 characters. e.g: `e2e4`<br><br>
-First two characters → piece position<br>
-Last two characters → destination
+Moves are entered as 4 characters. e.g: `e2e4`
+- First two characters → piece position<br>
+- Last two characters → destination
 
 ## Commands
 - `save` — Save the current game
