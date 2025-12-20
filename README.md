@@ -51,5 +51,5 @@ If your terminal does not support ANSI colors, the board and pieces will not dis
 - `restart` — Restart the game
 
 ## 💾 Save System
-- Saved games are stored in the saves/ folder as .txt files.
+- Saved games are stored in the saves/ folder as `.txt` files.
 - You can load a save by entering its filename when starting the game.
