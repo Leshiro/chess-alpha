@@ -14,13 +14,12 @@ If your terminal does not support ANSI colors, the board and pieces will not dis
 ### ✅ Implemented
 - Playable chess game in the terminal
 - Full move validation for all pieces
+- Check detection
 - Pawn promotion
-- Capture detection
 - Colored board and pieces (ANSI escape codes)
 - Save & load game state
 
 ### ❌ Not Implemented (Yet)
-- Check detection
 - Checkmate
 - Stalemate
 - Castling
