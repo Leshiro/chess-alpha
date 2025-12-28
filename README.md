@@ -48,4 +48,4 @@ chess-alpha/
 ├── game.py           # Run file
 ├── gui.py            # Pygame interface
 ├── README.md         
-└──requirements.txt   #Required packages
+└──requirements.txt   # Required packages
