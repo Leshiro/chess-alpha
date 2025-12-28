@@ -26,6 +26,15 @@ This project focuses on implementing core chess mechanics, move validation, and 
 
 ---
 
+## Requirements
+Python 3.x
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+---
+
 ## How to Play
 
 1. Clone the repository:
