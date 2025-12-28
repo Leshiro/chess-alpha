@@ -19,14 +19,9 @@ This project focuses on implementing core chess mechanics, move validation, and 
 - En passant
 
 ## 🛠️ Built With
+```
 - Python 3.13
-- Pygame
-  
-## Requirements
-Python 3.x
-Install dependencies:
-```bash
-pip install -r requirements.txt
+- Pygame 2.6.1
 ```
 
 ## How to Play
