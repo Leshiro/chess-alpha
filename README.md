@@ -39,9 +39,9 @@ This project focuses on implementing core chess mechanics, move validation, and 
 chess-alpha/
 ├── assets/        # Images & audio
 ├── permanent/     # Permanent game data
+├── saves/         # Saved games
 ├── colors.py      # Colors & palettes
 ├── config.py      # UI settings
-├── saves/         # Saved games
 ├── engine.py      # Chess engine
 ├── game.py        # Start file
 └── gui.py         # Pygame UI
