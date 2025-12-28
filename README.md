@@ -22,7 +22,7 @@ This project focuses on implementing core chess mechanics, move validation, and 
 ### ❌ Not Implemented Yet
 - En passant
 
-## How to Play
+## How to Run
 1. Clone the repository:
 ```bash
 git clone https://github.com/Leshiro/chess-alpha.git
