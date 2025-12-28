@@ -24,11 +24,17 @@ This project focuses on implementing core chess mechanics, move validation, and 
 
 ## How to Play
 1. Clone the repository:
-```git clone https://github.com/Leshiro/chess-alpha.git```
+```bash
+git clone https://github.com/Leshiro/chess-alpha.git
+```
 2. Navigate into the project folder:
-```cd chess-alpha```
+```bash
+cd chess-alpha
+```
 3. Run the game:
-```python game.py```
+```bash
+python game.py
+```
 
 ## 📁 Project Structure
 ``` bash
@@ -41,3 +47,4 @@ chess-alpha/
 ├── engine.py      # Chess engine
 ├── game.py        # Start file
 └── gui.py         # Pygame UI
+```
