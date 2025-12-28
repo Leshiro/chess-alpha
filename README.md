@@ -22,14 +22,23 @@ This project focuses on implementing core chess mechanics, move validation, and 
 ### ❌ Not Implemented Yet
 - En passant
 
-## How to Run
+## How to Run (ZIP Download)
+
+1. Click **Code → Download ZIP** on this repository.
+2. Extract the ZIP file to a folder.
+3. Install the required dependencies:
+   ```bash
+   pip install pygame
+4. Open the folder and run `game.py` to run the game.
+
+## How to Run (Git Repo)
 1. Clone the repository:
 ```bash
 git clone https://github.com/Leshiro/chess-alpha.git
 ```
 2. Navigate into the project folder:
 ```bash
-cd chess-alpha
+   cd chess-alpha
 ```
 3. Run the game:
 ```bash
