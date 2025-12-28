@@ -24,6 +24,9 @@ This project focuses on implementing core chess mechanics, move validation, and 
 
 ## How to Play
 
+1. Install code
+2. Run `game.py`
+# OR
 1. Clone the repository:
    ```bash
    git clone https://github.com/Leshiro/chess-alpha.git
