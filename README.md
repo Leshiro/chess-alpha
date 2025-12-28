@@ -1,13 +1,8 @@
-# Chess in Terminal ♟️
+# Chess Alpha
 
-A fully playable **chess game in the terminal**, written **from scratch in Python**.
+A fully playable **chess engine**, written **from scratch in Python**.
 
-This project focuses on implementing core chess mechanics, move validation, and a clean terminal UI — without using external chess libraries.
-
-⚠️ **Note:** This game requires a terminal that supports **ANSI color escape codes**.  
-If your terminal does not support ANSI colors, the board and pieces will not display correctly.
-
----
+This project focuses on implementing core chess mechanics, move validation, and a clean Pygame UI — without using external chess libraries.
 
 ## 🎮 Features
 
@@ -16,12 +11,12 @@ If your terminal does not support ANSI colors, the board and pieces will not dis
 - Colored board and pieces (ANSI escape codes)
 - Full move validation for all pieces
 - Check, checkmate, stalemate
+- Castling
 - Pawn promotion
 - Undoing moves
 - Save & load game state
 
 ### ❌ Not Implemented (Yet)
-- Castling
 - En passant
 
 ---
@@ -30,22 +25,13 @@ If your terminal does not support ANSI colors, the board and pieces will not dis
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Leshiro/chess-in-terminal.git
+   git clone https://github.com/Leshiro/chess-alpha.git
 2. Navigate into the project folder:
    ```bash
-   cd chess-in-terminal
+   cd chess-alpha
 3. Run the game:
    ```bash
-   python chess.py
-
-## Controls
-Moves are entered as 4 characters. e.g: `e2e4`
-- First two characters → piece position<br>
-- Last two characters → destination
-
-## Commands
-- `save` — Save the current game
-- `exit` / `quit` — Exit the game
+   python run.py
 - `restart` — Restart the game
 - `undo` — Undo move
 
