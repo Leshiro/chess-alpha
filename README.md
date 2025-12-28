@@ -15,8 +15,14 @@ This project focuses on implementing core chess mechanics, move validation, and 
 - Undoing moves
 - Saving & loading games
 
-### ❌ Not Implemented (Yet)
+### ❌ Not Implemented Yet
 - En passant
+
+---
+
+## 🛠️ Built With
+- Python 3.x
+- Pygame
 
 ---
 
