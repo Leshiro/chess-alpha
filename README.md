@@ -7,6 +7,7 @@ A complete & customizable **chess engine**, written from scratch in Python; incl
 This project focuses on designing & implementing a complete chess engine - without using external chess libraries.
 
 ![Chess Alpha](assets/images/image1.png)
+![Chess Alpha](assets/images/image2.png)
 
 ## ✔️ Features
 
