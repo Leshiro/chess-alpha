@@ -9,6 +9,13 @@ This project focuses on designing & implementing a complete chess engine - witho
 ![Chess Alpha](assets/images/image1.png)
 
 ## ✔️ Features
+
+### 🎮 Game UI
+- Two boards (Both perspectives) 
+- Clean Pygame UI with interactive buttons
+- Multiple piece sets
+- Multiple board palettes
+
 ### ⚙️ Engine
 - Legal move validation for all pieces
 - Check, checkmate, stalemate
@@ -17,12 +24,6 @@ This project focuses on designing & implementing a complete chess engine - witho
 - En passant
 - Undoing moves
 - Save & load functionality
-
-### 🎮 Game UI
-- Two boards (Both perspectives) 
-- Clean Pygame UI with interactive buttons
-- Multiple piece sets
-- Multiple board palettes
 
 ## 🛠️ Built With
 - `Python 3.13`
