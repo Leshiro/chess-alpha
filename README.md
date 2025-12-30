@@ -21,12 +21,12 @@ This project focuses on designing & implementing a complete chess engine - witho
 - `Python 3.13`
 - `Pygame 2.6.1`
 
-## How to Run
+## ▶️ How to Run
 1. Click **Code → Download ZIP** on this repository.
 2. Extract the ZIP file to a folder.
 3. Open the folder and run `game.py`.
 
-## How to Run (Alternative)
+## ▶️ How to Run (Alternative)
 1. Clone the repository: `git clone https://github.com/Leshiro/chess-alpha.git`
 2. Navigate into the project folder: `cd chess-alpha`
 3. Run the game: `python game.py`
