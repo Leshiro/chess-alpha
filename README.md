@@ -37,7 +37,7 @@ This project focuses on designing & implementing a complete chess engine - witho
 ## How to Run (Alternative)
 1. Clone the repository: `git clone https://github.com/Leshiro/chess-alpha.git`
 2. Navigate into the project folder: `cd chess-alpha`
-3. Run the game: `python game.py`
+3. Run the game: `python game.pyw`
 
 ## 📁 Project Structure
 ``` bash
