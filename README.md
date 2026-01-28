@@ -42,8 +42,9 @@ This project focuses on designing & implementing a complete chess engine - witho
 ## 📁 Project Structure
 ``` bash
 py-knight/
-├── assets/        # Images & audio
-├── permanent/     # Permanent game data
+├── assets/        # Images & audio files
+├── current/       # Current game data
+├── permanent/     # Permanent data
 ├── saves/         # Saved games
 ├── colors.py      # Colors & palettes
 ├── config.py      # UI settings
