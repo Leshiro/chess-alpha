@@ -32,23 +32,9 @@ This project focuses on designing & implementing a complete chess engine - witho
 ## How to Run
 1. Click **Code → Download ZIP** on this repository.
 2. Extract the ZIP file to a folder.
-3. Open the folder and run `game.pyw`.
+3. Open the folder and run `main.py`.
 
 ## How to Run (Alternative)
 1. Clone the repository: `git clone https://github.com/Leshiro/py-knight`
 2. Navigate into the project folder: `cd py-knight`
-3. Run the game: `python game.pyw`
-
-## 📁 Project Structure
-``` bash
-py-knight/
-├── assets/        # Images & audio files
-├── current/       # Current game data
-├── permanent/     # Permanent data
-├── saves/         # Saved games
-├── colors.py      # Colors & palettes
-├── config.py      # UI settings
-├── engine.py      # Chess engine
-├── game.pyw       # Launcher
-└── gui.py         # Pygame UI
-```
+3. Run the game: `python main.py`
