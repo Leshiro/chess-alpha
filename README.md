@@ -38,3 +38,14 @@ This project focuses on designing & implementing a complete chess engine - witho
 1. Clone the repository: `git clone https://github.com/Leshiro/py-knight`
 2. Navigate into the project folder: `cd py-knight`
 3. Run the game: `python main.py`
+
+## 📁 Project Structure
+```
+py-knight/
+├── assets/      # Images & audio files
+├── data/        # Save data
+├── engine/      # Game engine
+├── ui/          # Pygame UI
+├── main.py      # Launcher
+└── main.pyw     # Launcher without terminal (Windows only)
+```
