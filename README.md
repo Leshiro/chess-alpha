@@ -2,9 +2,9 @@
 
 ![PyKnight](assets/brand/logo256.png)
 
-A complete & customizable chess game, written from scratch in Python; including legal move validation, game-state management, save & load functionality, and a clean Pygame UI with interactive controls. 
+A complete & customizable chess game I made in Python as a solo hobby project.
 
-This project focuses on designing & implementing a complete chess engine - without using external chess libraries.
+The goal of this project was to design & implement a complete chess game without using external chess libraries.
 
 ![PyKnight](assets/images/image1.png)
 
