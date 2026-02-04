@@ -8,15 +8,15 @@ This project focuses on designing & implementing a complete chess engine - witho
 
 ![PyKnight](assets/images/image1.png)
 
-## ✔️ Features
+## Features
 
-### 🎮 Game UI
+### Game UI
 - Two boards (both perspectives) 
 - Clean Pygame UI with interactive controls
 - Multiple piece sets
 - Multiple board palettes
 
-### ⚙️ Engine
+### Engine
 - Legal move validation for all pieces
 - Check, checkmate, stalemate
 - Pawn promotion
@@ -25,7 +25,7 @@ This project focuses on designing & implementing a complete chess engine - witho
 - Undoing moves
 - Save & load functionality
 
-## 🛠️ Built With
+## Built With
 - `Python 3.13`
 - `Pygame 2.6.1`
 
@@ -39,7 +39,7 @@ This project focuses on designing & implementing a complete chess engine - witho
 2. Navigate into the project folder: `cd py-knight`
 3. Run the game: `python main.py`
 
-## 📁 Project Structure
+## Project Structure
 ```
 py-knight/
 ├── assets/      # Images & audio files
