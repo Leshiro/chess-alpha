@@ -25,10 +25,6 @@ This project focuses on designing & implementing a complete chess engine - witho
 - Undoing moves
 - Save & load functionality
 
-## Built With
-- `Python 3.13`
-- `Pygame 2.6.1`
-
 ## How to Run
 1. Click **Code → Download ZIP** on this repository.
 2. Extract the ZIP file to a folder.
@@ -49,3 +45,7 @@ py-knight/
 ├── main.py      # Launcher
 └── main.pyw     # Launcher without terminal (Windows only)
 ```
+
+## Built With
+- `Python 3.13`
+- `Pygame 2.6.1`
