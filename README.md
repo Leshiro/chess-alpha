@@ -38,14 +38,3 @@ This project focuses on designing & implementing a complete chess engine - witho
 ## Built With
 - `Python 3.13`
 - `Pygame 2.6.1`
-
-## Project Structure
-```
-py-knight/
-├── assets/      # Images & audio files
-├── data/        # Save data
-├── engine/      # Game engine
-├── ui/          # Pygame UI
-├── main.py      # Launcher
-└── main.pyw     # Launcher without terminal (Windows only)
-```
