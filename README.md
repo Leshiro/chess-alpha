@@ -2,7 +2,7 @@
 
 ![PyKnight](assets/brand/logo256.png)
 
-A complete & customizable **chess game**, written from scratch in Python; including legal move validation, game-state management, save & load functionality, and a clean Pygame GUI with interactive controls. 
+A complete & customizable chess game, written from scratch in Python; including legal move validation, game-state management, save & load functionality, and a clean Pygame GUI with interactive controls. 
 
 This project focuses on designing & implementing a complete chess engine - without using external chess libraries.
 
@@ -35,6 +35,10 @@ This project focuses on designing & implementing a complete chess engine - witho
 2. Navigate into the project folder: `cd py-knight`
 3. Run the game: `python main.py`
 
+## Built With
+- `Python 3.13`
+- `Pygame 2.6.1`
+
 ## Project Structure
 ```
 py-knight/
@@ -45,7 +49,3 @@ py-knight/
 ├── main.py      # Launcher
 └── main.pyw     # Launcher without terminal (Windows only)
 ```
-
-## Built With
-- `Python 3.13`
-- `Pygame 2.6.1`
