@@ -32,6 +32,7 @@ The goal of this project was to design & implement a complete chess game without
   - Open a terminal and navigate into the extracted folder: `cd extracted/folder/path`
   - Install the required packages: `pip install -r requirements.txt`
 4. Open the folder and run `main.py`.
+- Alternatively, run `main.pyw` to run the game without terminal (only on Windows).
 
 ## How to Run (Alternative)
 1. Clone the repository: `git clone https://github.com/Leshiro/py-knight`
