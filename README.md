@@ -28,12 +28,16 @@ The goal of this project was to design & implement a complete chess game without
 ## How to Run
 1. Click **Code → Download ZIP** on this repository.
 2. Extract the ZIP file to a folder.
-3. Open the folder and run `main.py`.
+3. If you don't have Pygame installed:
+  - Open a terminal and navigate into the extracted folder: `cd extracted/folder/path`
+  - Install the required packages: `pip install -r requirements.txt`
+4. Open the folder and run `main.py`.
 
 ## How to Run (Alternative)
 1. Clone the repository: `git clone https://github.com/Leshiro/py-knight`
 2. Navigate into the project folder: `cd py-knight`
-3. Run the game: `python main.py`
+3. Install the required packages: `pip install -r requirements.txt`
+4. Run the game: `python main.py`
 
 ## Built With
 - `Python 3.13`
