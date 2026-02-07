@@ -1,7 +1,5 @@
 # PyKnight ![Python](https://img.shields.io/badge/python-3.13-blue) ![Pygame](https://img.shields.io/badge/pygame-2.6.1-blue)
 
-![PyKnight](assets/brand/logo256.png)
-
 A complete & customizable chess game I made in Python as a solo hobby project.
 
 The goal of this project was to design & implement a complete chess game without using external chess libraries.
